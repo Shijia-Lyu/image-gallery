@@ -3,13 +3,19 @@
 About me!
 
 ## 🌲 Conference
-<img src="assets/conference/nds1.jpg" alt="Conference at National School of Development, Peking University" width="400">
+<div style="text-align: center;">
+  <img src="assets/conference/nds1.jpg" alt="Conference at National School of Development, Peking University" style="width: 400px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
 ## 🌆 Life
-<img src="assets/life/life2.jpg" alt="Walking on a HK Island" width="400">
+<div style="text-align: center;">
+  <img src="assets/life/life2.jpg" alt="Walking on a HK Island" style="width: 400px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
 ## 👤 Thoughts
-<img src="assets/thoughts/thoughts2.jpg" alt="Exhibition in Central, HK" width="400">
+<div style="text-align: center;">
+  <img src="assets/thoughts/thought2.jpg" alt="Exhibition in Central, HK" style="width: 400px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
 ---
 
