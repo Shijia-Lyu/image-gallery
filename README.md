@@ -2,17 +2,17 @@
 
 About me!
 
-## 🌲 Nature
+## 🌲 Conference
 ![Nature](thumbnails/nature1-thumb.jpg)
 
-## 🌆 Cityscapes
+## 🌆 Life
 ![City](thumbnails/city1-thumb.jpg)
 
-## 👤 Portraits
+## 👤 Thoughts
 ![Portrait](thumbnails/portrait1-thumb.jpg)
 
 ---
 
 📁 Want to explore more? Browse folders in `/assets`.
 
-🔗 Hosted with [GitHub Pages](https://your-username.github.io/image-gallery)
+🔗 Hosted with [Sylvie GitHub Pages](https://github.com/Shijia-Lyu/image-gallery-)
