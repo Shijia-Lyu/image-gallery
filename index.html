@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sylvie | Academic Homepage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Sylvie</h1>
+        <p>Researcher in Economic History</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I am a researcher specializing in Economic History. I am interested in understanding how economic institutions and systems evolve over time through interdisciplinary methods.</p>
+    </section>
+
+    <section class="gallery">
+        <h2>Gallery</h2>
+
+        <h3>Conferences</h3>
+        <div class="gallery-grid">
+            <img src="assets/conference/conference1.jpg" alt="Conference 1" onclick="openModal(this)">
+            <img src="assets/conference/conference2.jpg" alt="Conference 2" onclick="openModal(this)">
+        </div>
+
+        <h3>Life</h3>
+        <div class="gallery-grid">
+            <img src="assets/life/life1.jpg" alt="Life 1" onclick="openModal(this)">
+            <img src="assets/life/life2.jpg" alt="Life 2" onclick="openModal(this)">
+        </div>
+
+        <h3>Thoughts</h3>
+        <div class="gallery-grid">
+            <img src="assets/thoughts/thought1.jpg" alt="Thought 1" onclick="openModal(this)">
+            <img src="assets/thoughts/thought2.jpg" alt="Thought 2" onclick="openModal(this)">
+        </div>
+    </section>
+
+    <div id="myModal" class="modal" onclick="closeModal()">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="imgModal">
+    </div>
+
+    <footer>
+        <p>© 2025 Sylvie. All rights reserved.</p>
+    </footer>
+
+    <script>
+        function openModal(imgElement) {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("imgModal");
+            modal.style.display = "block";
+            modalImg.src = imgElement.src;
+        }
+
+        function closeModal() {
+            document.getElementById("myModal").style.display = "none";
+        }
+    </script>
+</body>
+</html>
