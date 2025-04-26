@@ -12,6 +12,8 @@ See the site [Sylvie's Image Gallery](https://shijia-lyu.github.io/image-gallery
 <div style="text-align: center;">
   <img src="assets/life/life2.jpg" alt="Walking on a HK Island" style="width: 400px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
+ <img src="assets/life/life3.jpg" alt="Walking on a HK Island" style="width: 400px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
 ## 👤 Thoughts
 <div style="text-align: center;">
