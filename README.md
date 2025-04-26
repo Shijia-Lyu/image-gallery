@@ -1,6 +1,7 @@
 # 🖼️ Image Gallery
 
 About me!
+See the site [Sylvie's Image Gallery](https://shijia-lyu.github.io/image-gallery/)
 
 ## 🌲 Conference
 <div style="text-align: center;">
@@ -21,4 +22,4 @@ About me!
 
 📁 Want to explore more? Browse folders in `/assets`.
 
-🔗 Hosted with [Sylvie GitHub Pages](https://github.com/Shijia-Lyu/image-gallery-)
+🔗 Hosted with [Sylvie GitHub Pages](https://github.com/Shijia-Lyu/image-gallery)
