@@ -3,13 +3,13 @@
 About me!
 
 ## 🌲 Conference
-![Conference at National School of Development, Peking University](conference/nds1.jpg)
+![Conference at National School of Development, Peking University](assets/conference/nds1.jpg)
 
 ## 🌆 Life
-![Walking on a HK Island](life/life2.jpg)
+![Walking on a HK Island](assets/life/life2.jpg)
 
 ## 👤 Thoughts
-![Exhibition in Central, HK](thoughts/thoughts2.jpg)
+![Exhibition in Central, HK](assets/thoughts/thoughts2.jpg)
 
 ---
 
